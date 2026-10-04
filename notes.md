@@ -1,0 +1,1 @@
+   Day 1: Strang Lec 1, Python installed
